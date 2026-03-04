@@ -1,6 +1,6 @@
 <div align="center">
     <h1><a href="https://www.horizonvertical.org">HorizonVertical</a></h1>
-    <p><a href="README.md">en</a>, <a href="./README-jp.md">jp</a></p>
+    <p><a href="https://github.com/horizonvertical/.github/profile/README.md">en</a>, <a href="https://github.com/horizonvertical/.github/profile/README-jp.md">jp</a></p>
     <img src="https://avatars.githubusercontent.com/u/194274048?s=200&v=4" alt="HorizonVertical Logo" width="200">
 </div>
 
