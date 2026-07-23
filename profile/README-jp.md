@@ -23,8 +23,8 @@ HorizonVerticalは3つの信念を掲げています。
 
 ## Media
 - [Website](https://www.horizonvertical.org)
-- [Instagram](https://instagram.com/h_vertical_org)
-- [X](https://x.com/h_vertical_org)
+- [Instagram](https://instagram.com/hvertical_org)
+- [X](https://x.com/hvertical_org)
 
 <br><br><br><br><br>
 **Contact & Maintain**\
