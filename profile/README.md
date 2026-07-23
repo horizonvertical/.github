@@ -23,8 +23,8 @@ Rather than a one-sided relationship of dependence, we value a bond where both s
 
 ## Media
 - [Website](https://www.horizonvertical.org)
-- [Instagram](https://instagram.com/h_vertical_org)
-- [X](https://x.com/h_vertical_org)
+- [Instagram](https://instagram.com/hvertical_org)
+- [X](https://x.com/hvertical_org)
 
 <br><br><br><br><br>
 **Contact & Maintain**\
